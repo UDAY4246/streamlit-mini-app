@@ -1,0 +1,9 @@
+Consider it is an sample data to run the file( copy and paste on your notepad/ notepad++
+, etc)
+>> Upload a CSV file with columns like:<<
+Name,Email,Phone,Skills,Experience (Years),Status
+Ravi Kumar,ravi.kumar@example.com,9876543210,Python; SQL; Machine Learning,3,Applied
+Sneha Reddy,sneha.reddy@example.com,9876501234,Java; Spring Boot; Microservices,5,Interview Scheduled
+Arjun Patel,arjun.patel@example.com,9876009876,React; Node.js; MongoDB,2,Applied
+Priya Sharma,priya.sharma@example.com,9876123456,Data Analysis; Excel; Power BI,4,Shortlisted
+Vikram Singh,vikram.singh@example.com,9876789123,AWS; Docker; Kubernetes,6,Hired
